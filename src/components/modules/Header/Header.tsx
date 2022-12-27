@@ -21,6 +21,9 @@ export const Header: React.FC = () => {
             My Flowers
           </Link>
         </Typography>
+        <Typography sx={{ color: '#006666' }} fontFamily={`'Raleway', sans-serif`}>
+          Cart total: $0.00
+        </Typography>
         <IconButton color="inherit">
           <Badge color="secondary">
             {<AddShoppingCartOutlinedIcon style={{ color: '#006666' }} sx={{ fontSize: 30 }} />}
