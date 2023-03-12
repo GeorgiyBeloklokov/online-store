@@ -1,0 +1,238 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should to equal to snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <header
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionStatic css-hip9hq-MuiPaper-root-MuiAppBar-root"
+        style="background: white; box-shadow: none;"
+      >
+        <div
+          class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-hyum1k-MuiToolbar-root"
+        >
+          <div
+            class="MuiBox-root css-1m04nb5"
+          >
+            <button
+              aria-label="menu"
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeStart MuiIconButton-sizeLarge css-d0cwcr-MuiButtonBase-root-MuiIconButton-root"
+              tabindex="0"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                data-testid="MenuIcon"
+                focusable="false"
+                style="color: rgb(0, 102, 102);"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+                />
+              </svg>
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+          <h1
+            class="MuiTypography-root MuiTypography-h1 css-1ufqb2n-MuiTypography-root"
+          >
+            <a
+              class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone css-1l9cq9n-MuiTypography-root-MuiLink-root"
+              href="/"
+            >
+              My Flowers
+            </a>
+          </h1>
+          <h2
+            class="MuiTypography-root MuiTypography-h2 css-zw7fnu-MuiTypography-root"
+          >
+            Cart total:
+             
+            0
+            $
+          </h2>
+          <a
+            href="/cart"
+          >
+            <button
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeMedium css-zylse7-MuiButtonBase-root-MuiIconButton-root"
+              data-testid="cart-button"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiBadge-root MuiBadge-root css-1c32n2y-MuiBadge-root"
+                data-testid="badge"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1akexa-MuiSvgIcon-root"
+                  data-testid="cart-icon"
+                  focusable="false"
+                  style="color: rgb(0, 102, 102);"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M11 9h2V6h3V4h-3V1h-2v3H8v2h3v3zm-4 9c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zm10 0c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2zm-8.9-5h7.45c.75 0 1.41-.41 1.75-1.03l3.86-7.01L19.42 4l-3.87 7H8.53L4.27 2H1v2h2l3.6 7.59-1.35 2.44C4.52 15.37 5.48 17 7 17h12v-2H7l1.1-2z"
+                  />
+                </svg>
+                <span
+                  class="MuiBadge-badge MuiBadge-standard MuiBadge-invisible MuiBadge-anchorOriginBottomLeft MuiBadge-anchorOriginBottomLeftCircular MuiBadge-overlapCircular MuiBadge-colorError MuiBadge-badge MuiBadge-invisible css-17djgvu-MuiBadge-badge"
+                />
+              </span>
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </button>
+          </a>
+        </div>
+      </header>
+    </div>
+  </body>,
+  "container": <div>
+    <header
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionStatic css-hip9hq-MuiPaper-root-MuiAppBar-root"
+      style="background: white; box-shadow: none;"
+    >
+      <div
+        class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-hyum1k-MuiToolbar-root"
+      >
+        <div
+          class="MuiBox-root css-1m04nb5"
+        >
+          <button
+            aria-label="menu"
+            class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeStart MuiIconButton-sizeLarge css-d0cwcr-MuiButtonBase-root-MuiIconButton-root"
+            tabindex="0"
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+              data-testid="MenuIcon"
+              focusable="false"
+              style="color: rgb(0, 102, 102);"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+              />
+            </svg>
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <h1
+          class="MuiTypography-root MuiTypography-h1 css-1ufqb2n-MuiTypography-root"
+        >
+          <a
+            class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone css-1l9cq9n-MuiTypography-root-MuiLink-root"
+            href="/"
+          >
+            My Flowers
+          </a>
+        </h1>
+        <h2
+          class="MuiTypography-root MuiTypography-h2 css-zw7fnu-MuiTypography-root"
+        >
+          Cart total:
+           
+          0
+          $
+        </h2>
+        <a
+          href="/cart"
+        >
+          <button
+            class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-sizeMedium css-zylse7-MuiButtonBase-root-MuiIconButton-root"
+            data-testid="cart-button"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiBadge-root MuiBadge-root css-1c32n2y-MuiBadge-root"
+              data-testid="badge"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1akexa-MuiSvgIcon-root"
+                data-testid="cart-icon"
+                focusable="false"
+                style="color: rgb(0, 102, 102);"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M11 9h2V6h3V4h-3V1h-2v3H8v2h3v3zm-4 9c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zm10 0c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2zm-8.9-5h7.45c.75 0 1.41-.41 1.75-1.03l3.86-7.01L19.42 4l-3.87 7H8.53L4.27 2H1v2h2l3.6 7.59-1.35 2.44C4.52 15.37 5.48 17 7 17h12v-2H7l1.1-2z"
+                />
+              </svg>
+              <span
+                class="MuiBadge-badge MuiBadge-standard MuiBadge-invisible MuiBadge-anchorOriginBottomLeft MuiBadge-anchorOriginBottomLeftCircular MuiBadge-overlapCircular MuiBadge-colorError MuiBadge-badge MuiBadge-invisible css-17djgvu-MuiBadge-badge"
+              />
+            </span>
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </a>
+      </div>
+    </header>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
